@@ -76,7 +76,7 @@ Feature scaling using StandardScaler was applied within the pipelines for Logist
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** [Add your GitHub repository URL here]
+**GitHub Repository:** https://github.com/Supratik0109/ML_Assignment_02/tree/main
 
 The repository contains:
 
